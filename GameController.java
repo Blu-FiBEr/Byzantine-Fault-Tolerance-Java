@@ -6,10 +6,10 @@ import common.Machine;
 
 import demo.Game_0101;
 import demo.Machine_0101;
-import demo.Machine_0056;
-import demo.Machine_0094;
-import demo.Machine_052;
-import demo.Machine_0551;
+import demo.Machine_0101;
+import demo.Machine_0101;
+import demo.Machine_0101;
+import demo.Machine_0101;
 
 public class GameController {
 
@@ -32,11 +32,11 @@ public class GameController {
 		
 		machines.add(new Machine_0101());
 		machines.add(new Machine_0101());
-		machines.add(new Machine_0551());
-		machines.add(new Machine_052());
-		machines.add(new Machine_0094());
-		machines.add(new Machine_0056());
-		machines.add(new Machine_052());
+		machines.add(new Machine_0101());
+		machines.add(new Machine_0101());
+		machines.add(new Machine_0101());
+		machines.add(new Machine_0101());
+		machines.add(new Machine_0101());
 		
 		// change the following as needed
 		int numFaults = 2;
